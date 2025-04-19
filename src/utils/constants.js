@@ -20,7 +20,7 @@ export const projects = [
       "Chat App is a real-time chat application built with React and Firebase. It allows users to create an account, and send messages in real-time. The app features a clean and modern design, making it easy to use and navigate.",
     image: Project1,
     stack: ["React", "Javascript", "CSS" , "Firebase"],
-    liveUrl: "chat-app-chi-indol.vercel.app",
+    liveUrl: "https://chat-app-chi-indol.vercel.app/",
     sourceUrl: "https://github.com/subham081299/chat-app",
   },
 
@@ -31,7 +31,7 @@ export const projects = [
       "VidTube is a YouTube clone built with React. It allows users to  view video details, and watch videos. The app features a clean and modern design, making it easy to use and navigate.",
     image: Project2,
     stack: ["React", "CSS", "JavaScript"],
-    liveUrl: "youtube-clone-six-pi.vercel.app",
+    liveUrl: "https://youtube-clone-six-pi.vercel.app/",
     sourceUrl: "https://github.com/subham081299/youtube-clone",
   },
 ];
